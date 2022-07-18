@@ -2,10 +2,13 @@
 
 ![](https://raw.githubusercontent.com/gh1mau/IRH/main/img/irh-phases.png)
 
-<details>
+
+|   Incident Response Phases |
+| ------------ |
+| <details>
 <summary><h3>Preparation</h3></summary>
-Preparations for an Incident Response is not just about preparing to handle an Incident when it happens. It also entails the prevention of incidents by ensuring that systems, networks and applications are sufficiently secure.
-</details>
+Incident response methodologies typically emphasize preparation—not only establishing an incident response capability so that the organization is ready to respond to incidents, but also preventing incidents by ensuring that systems, networks, and applications are sufficiently secure.
+</details>|
 
 
 
