@@ -2,7 +2,6 @@
 
 ![](https://raw.githubusercontent.com/gh1mau/IRH/main/img/irh-phases.png)
 
----
 
 ### 1. Preparation
 
@@ -14,7 +13,7 @@ This phase will be the work horse of your incident response planning, and in the
 <br>
 
 |#|**Questions to address**  |
-|--|--|
+|--|:--|
 | 01 | Has everyone been trained on security policies? |
 | 02 | Have your security policies and incident response plan been approved by appropriate management? |
 | 03 | Does the Incident Response Team know their roles and the required notifications to make? |
@@ -30,7 +29,7 @@ This is the process where you determine whether you’ve been breached. A breach
 <br>
 
 |#|**Questions to address**    |
-|--|--|
+|--|:--|
 | 01 | When did the event happen? |
 | 02|  How was it discovered?|
 | 03|  Who discovered it?|
@@ -50,7 +49,7 @@ This is also a good time to **update and patch your systems, review your remote 
 <br>
 
 |#|**Questions to address**    |
-|--|--|
+|--|:--|
 | 01 | What’s been done to contain the breach short term? |
 | 02|  What’s been done to contain the breach long term?|
 | 03|  Has any discovered malware been quarantined from the rest of the environment?|
@@ -69,7 +68,7 @@ Whether you do this yourself, or hire a third party to do it, you need to be tho
 
 
 |#|**Questions to address**    |
-|--|--|
+|--|:--|
 | 01 | Have artifacts/malware from the attacker been securely removed? |
 | 02|  Has the system be hardened, patched, and updates applied?|
 | 03|  Can the system be re-imaged?|
@@ -83,7 +82,7 @@ This is the process of **restoring and returning affected systems and devices ba
 
 
 |#|**Questions to address**    |
-|--|--|
+|--|:--|
 | 01 | When can systems be returned to production?|
 | 02|  Have systems been patched, hardened and tested?|
 | 03|  Can the system be restored from a trusted back-up?|
@@ -97,7 +96,7 @@ Once the investigation is complete, hold an **after-action meeting with all Inci
 <br>
 
 |#|**Questions to address**    |
-|--|--|
+|--|:--|
 | 01 | What changes need to be made to the security?|
 | 02|  How should employee be trained differently?|
 | 03|  What weakness did the breach exploit?|
