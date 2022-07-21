@@ -4,7 +4,7 @@
 
 ---
 
-###1. Preparation
+### 1. Preparation
 
 This phase will be the work horse of your incident response planning, and in the end, the most crucial phase to protect your business. Part of this phase includes:  
 
@@ -24,7 +24,7 @@ This phase will be the work horse of your incident response planning, and in the
 
 ---
 
-###2. Incident Identification
+### 2. Incident Identification
 
 This is the process where you determine whether you’ve been breached. A breach, or incident, could originate from many different areas.
 <br>
