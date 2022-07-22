@@ -28,3 +28,15 @@ This phase will be the work horse of your incident response planning, and in the
 
 
 <br>
+
+#### [Sans Security Policy Template][1] 
+
+**Categories : General**
+1. Acceptable Encryption Policy
+> Outlines the requirement around which encryption algorithms (e.g. received substantial public review and have been proven to work effectively) are acceptable for use within the enterprise.
+2. Acceptabe Use Policy
+> Defines acceptable use of equipment and computing services, and the appropriate employee security measures to protect the organization's corporate resources and proprietary information.
+
+
+
+[1]: https://www.sans.org/information-security-policy/ "Sans Security Policy Template"
