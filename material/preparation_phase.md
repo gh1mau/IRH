@@ -1,6 +1,7 @@
 ### 1. Preparation Phase
 
 ![Preparation Phase](https://raw.githubusercontent.com/gh1mau/IRH/main/img/preparation_phase.png)
+<br>
 This phase will be the work horse of your incident response planning, and in the end, the most crucial phase to protect your business. During the first phase, first :
 
  - Examine and codify an organization’s **security policy**
