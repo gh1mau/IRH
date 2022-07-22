@@ -4,7 +4,7 @@
 <br>
 This phase will be the work horse of your incident response planning, and in the end, the most crucial phase to protect your business. During the first phase, first :
 
- - Examine and codify an organization’s **security policy**
+ - Examine and codify an organization’s **[security policy](https://github.com/gh1mau/IRH/blob/main/material/sans_policy_template.md "security policy")**
  - Conduct **Risk Assessment**
  - **Identify sensitive assets**
  - Determine which **significant security incidents** the team should focus on
