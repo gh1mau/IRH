@@ -3,23 +3,9 @@
 ![](https://raw.githubusercontent.com/gh1mau/IRH/main/img/irh-phases.png)
 
 
-### 1. Preparation
+ 1. [Preparation Phase](https://github.com/gh1mau/IRH/blob/main/material/preparation_phase.md)
 
-This phase will be the work horse of your incident response planning, and in the end, the most crucial phase to protect your business. Part of this phase includes:  
 
--   Ensure  your employees are **properly trained**  regarding their incident response roles and responsibilities in the event of data breach
--   Develop **incident response drill scenarios** and regularly conduct mock data breaches to evaluate your incident response plan.
--   Ensure that all aspects of your incident response plan (training, execution, hardware and software resources, etc.) are **approved and funded** in advance
-<br>
-
-|#|**Questions to address**  |
-|--|:--|
-| 01 | Has everyone been trained on security policies? |
-| 02 | Have your security policies and incident response plan been approved by appropriate management? |
-| 03 | Does the Incident Response Team know their roles and the required notifications to make? |
-| 04 | Have all Incident Response Team members participated in mock drills?|
-
-<br>
 
 
 
